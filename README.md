@@ -1,2 +1,2 @@
-mobi
+diaries
 ====
